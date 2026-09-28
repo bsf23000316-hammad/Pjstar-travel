@@ -1,0 +1,6 @@
+{
+  "name": "PJ STAR TRAVEL AND TOURS",
+  "description": "Premier Malaysian travel agency based in Petaling Jaya, Selangor. Flights, visa assistance, domestic and international tours, airport transfers, Umrah & Hajj, and corporate travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
